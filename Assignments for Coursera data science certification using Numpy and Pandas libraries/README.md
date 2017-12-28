@@ -8,4 +8,4 @@ Answered few questions by applying Pandas library functions on 'Indicators.xls',
 
 ## Assignment 4:
 It was a course project. The objective of this project was to do hypothesis testing and decide whether to reject the initial hypothesis or
-fail to reject it. Pandas and Scipy Stats library functions were used to ran analyis.
+fail to reject it. Pandas and Scipy Stats library functions were used to run analyis.
